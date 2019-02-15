@@ -6,7 +6,7 @@
 
 # Clone & Install Dependencies
 
-1) `git clone https://github.com/devnowcafe/runx.git`
+1) `git clone https://github.com/Excellent1212/React-Native-location-tracking-App.git`
 2) `cd runx` - cd into your newly created project directory.
 3) Install NPM packages with your package manager of choice - i.e run `yarn` or `npm install`
 4) **[iOS]** `cd ios` and run `pod install` - if you don't have CocoaPods you can follow [these instructions](https://guides.cocoapods.org/using/getting-started.html#getting-started) to install it.
